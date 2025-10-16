@@ -41,3 +41,11 @@ CONFIG_DRIVER_11N_SUPPORT=y
 CONFIG_DRIVER_11W_SUPPORT=y
 
 CONFIG_PACKAGE_luci-app-oled=y
+CONFIG_PACKAGE_luci-app-mentohust=y
+CONFIG_PACKAGE_mentohust=y 
+CONFIG_PACKAGE_luci-app-ua2f=y
+CONFIG_PACKAGE_ua2f=y 
+CONFIG_PACKAGE_libustream-openssl=y
+CONFIG_PACKAGE_kmod-rkp-ipid=y
+CONFIG_PACKAGE_iptables-mod-filter=y 
+CONFIG_PACKAGE_iptables-mod-ipopt=y
